@@ -1,0 +1,68 @@
+.padre{
+    background-color: aquamarine;
+    border:2px solid #fff;
+    position: absolute;
+
+}
+.padre ul{
+ list-style: none;
+}
+
+.padre{
+    width: 1300px;
+    height: 650px;
+}
+.cancha{
+     width: 1200px;
+     height:600px;
+    margin:28px;
+    border: 3px solid #fff;
+}
+.hijo1{
+    position: absolute;
+    width: 200px;
+    height:300px;
+    bottom: 160px;
+    border: 3px solid #fff;
+}
+.hijo3{
+    position: absolute;
+    width: 200px;
+    height:300px;
+    bottom: 160px;
+    left: 1029px;
+    border: 3px solid #fff;
+}
+.hijo2{
+    position:absolute;
+    border: 3px solid #fff;
+    width:130px;
+    height:160px; 
+    border-radius:290px;
+    left: 600px;
+    top:250px
+}
+.hijo1 img{
+    position: absolute;
+    left: 191px;
+    top: 10px;
+}
+.hijo3 img{
+    position: absolute;
+   top: 260px;
+   right: 220px  
+}
+.uno{
+    position: absolute;
+    left: 650px;
+    top: 150px
+    
+}
+
+
+
+    
+     
+   
+
+
